@@ -41,7 +41,7 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: url('../images/bg.png') repeat;
+		background-color: black;
 		font: 17px/23px 'OpenSans-Light-webfont';
 		color: #000;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */

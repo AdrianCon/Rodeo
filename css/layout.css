@@ -22,7 +22,7 @@
 }
 #services-top{
 	position: relative;
-	background: url(../images/parallax/2.jpg) no-repeat top center; 
+	background: url(../images/carrete.jpg) no-repeat top center; 
 	width:100%;	
 }
 #services-top h3{
@@ -314,7 +314,7 @@
 /* #Home */
 
 #home{ 
-	background: url(../images/bg.jpg) no-repeat center center; 
+	background: url(../images/inicio.jpg) no-repeat center center; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -766,7 +766,7 @@
 /* #ABOUT */
 
 #about{ 
-    background:url('../images/parallax/diagmonds.png') repeat;
+    background:url('../images/parallax/cartographer.png') repeat;
     position:relative;
 	padding-bottom:120px;
 }

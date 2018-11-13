@@ -277,6 +277,10 @@
     text-align: center;	
 }
 
+.nav-container-evento nav ul{
+	text-align: left;
+}
+
 .nav-container nav li {
     text-transform:uppercase;
 	display: inline;
@@ -315,6 +319,16 @@
 
 #home{ 
 	background: url(../images/inicio.jpg) no-repeat center center; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+    position:relative;
+	margin:0 auto;
+	min-height:700px;
+}
+
+#evento{
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

@@ -22,7 +22,7 @@
 }
 #services-top{
 	position: relative;
-	background: url(../images/carrete.jpg) no-repeat top center; 
+	background-color: black; /*: url(../images/carrete.jpg) no-repeat top center; */
 	width:100%;	
 }
 #services-top h3{
@@ -1654,7 +1654,6 @@
 #works{
     background:url('../images/parallax/cartographer.png') repeat;
     position:relative;
-	padding-bottom:120px;
 }
 #works h1{
 	font-weight:normal;
@@ -2277,7 +2276,8 @@
 /* #CONTACT */
 
 #contact{
-    background:url('../images/parallax/cartographer.png') repeat;
+    /* background:url('../images/parallax/cartographer.png') repeat; */
+    background-color: black;
     position:relative;
 }
 #contact h1{
@@ -2287,14 +2287,14 @@
 	padding-right:20px;
 	border-right:2px dotted rgba(250,105,0,.3);
 	text-align:right;
-	color:#000;
+	color:#FA6900;
 }
 #contact h2{
 	font-weight:normal;
 	padding-top: 20px;
 	padding-bottom:20px;
 	text-align:center;
-	color:#000;
+	color:#FA6900;
 }
 #contact h5{
 	font-family: 'OpenSans-Light-webfont';
@@ -2305,7 +2305,7 @@
 	line-height:32px;
 	font-weight:normal;
 	text-align:left;
-	color:#000;
+	color:#FA6900;
 }
 #contact h3{
 	padding-top:20px;
@@ -2315,6 +2315,7 @@
 	text-align:center;
 	margin-left:0px;
 	margin-right:0px;
+	color: #FA6900;
 }
 #contact span{
 	color:#FA6900;
